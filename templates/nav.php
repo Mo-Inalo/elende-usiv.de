@@ -4,12 +4,13 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
 <nav class=" navbar navbar-expand-md mynavcolor">
     <div class="container">
 
-        <a href="index.php"
+        <a href="/index.php"
            class="navbar-brand  ">
             <img
                 class="d-block align-top"
-                src ="pictures/logo3-removebg-preview.png "
+                src ="/pictures/logo3-removebg-preview.png "
                 width="150px" height="75px"
+                alt=""
             />
 
         </a>
@@ -31,7 +32,7 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
              id="navbarNav">
             <ul class="navbar-nav ">
                 <li class="navbar-item ">
-                    <a href="index.html" class="nav-link <?php echo ($page == 'index') ? 'active' :''?> ">
+                    <a href="/index.php" class="nav-link <?php echo ($page == 'index') ? 'active' :''?> ">
                         Home
                     </a>
                 </li>

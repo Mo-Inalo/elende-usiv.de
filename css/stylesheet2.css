@@ -1,2 +1,28 @@
 
-body{background: #eee}.news{width: 160px}.news-scroll a{text-decoration: none}.dot{height: 6px;width: 6px;margin-left: 3px;margin-right: 3px;margin-top: 2px !important;background-color: rgb(207,23,23);border-radius: 50%;display: inline-block}
+.mynavcolor{
+    background-color: rgba(70, 72, 73, 0.8);
+}
+
+.dropdowncolor {
+    background-color: rgb(109, 112, 114);
+}
+
+.pagecolor {
+    background-color: rgba(157, 160, 162, 0.8);
+}
+
+.breaking {
+    background: rgb(229, 213, 33);
+}
+
+.socialmeidachannels {
+    background-color: rgba(122, 124, 126, 0.8);
+}
+
+.copyright{
+
+    background-color: rgba(204, 211, 218, 0.8);
+}
+
+
+

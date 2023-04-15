@@ -16,7 +16,7 @@ include "templates/nav.php"
 <div class="row pagecolor ">
 
     <div  class="col-md-7 p-5">
-        <img class="rounded-3 img-fluid height:auto border-primary-subtle  " src="../pictures/e2.jpg" alt="Elende Usiv"   >
+        <img class="rounded-3 img-fluid height:auto border-primary-subtle  " src="pictures/e2.jpg" alt="Elende Usiv"   >
     </div>
 
     <div class=" col-md-5 h4 text-dark p-5">

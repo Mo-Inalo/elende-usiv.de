@@ -36,7 +36,7 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
                     </a>
                 </li>
                 <li class="navbar-item   ">
-                    <a href="/content/studio.php" class="nav-link <?php echo ($page == 'studio') ? 'active' :''?>">
+                    <a href="/studio.php" class="nav-link <?php echo ($page == 'studio') ? 'active' :''?>">
                         Studio
                     </a>
                 </li>
@@ -51,18 +51,18 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
                         About Me
                     </a>
                     <ul class="dropdown-menu dropdowncolor" aria-labelledby="navbarDropdown"  >
-                        <li><a class="dropdown-item <?php echo ($page == 'biography') ? 'active' :''?>" href="/content/biography.php">Biography</a></li>
-                        <li><a class="dropdown-item <?php echo ($page == 'motivation') ? 'active' :''?>" href="/content/motivation.php">Motivation</a></li>
-                        <li><a class="dropdown-item <?php echo ($page == 'study') ? 'active' :''?>" href="/content/study.php">Study</a></li>
+                        <li><a class="dropdown-item <?php echo ($page == 'biography') ? 'active' :''?>" href="/biography.php">Biography</a></li>
+                        <li><a class="dropdown-item <?php echo ($page == 'motivation') ? 'active' :''?>" href="/motivation.php">Motivation</a></li>
+                        <li><a class="dropdown-item <?php echo ($page == 'study') ? 'active' :''?>" href="/study.php">Study</a></li>
                     </ul>
                 </li>
                 <li class="navbar-item  ">
-                    <a href="/content/projects.php" class="nav-link <?php echo ($page == 'projects') ? 'active' :''?>">
+                    <a href="/projects.php" class="nav-link <?php echo ($page == 'projects') ? 'active' :''?>">
                         Projects
                     </a>
                 </li>
                 <li class="navbar-item ">
-                    <a href="/content/contact.php" class="nav-link <?php echo ($page == 'contact') ? 'active' :''?>">
+                    <a href="/contact.php" class="nav-link <?php echo ($page == 'contact') ? 'active' :''?>">
                         Contact
                     </a>
                 </li>

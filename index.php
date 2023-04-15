@@ -3,7 +3,6 @@ include "templates/header.php";
 ?>
 
 
-
 <?php
 include "templates/nav.php"
 ?>

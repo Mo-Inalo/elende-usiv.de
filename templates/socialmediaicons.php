@@ -4,7 +4,7 @@
     <section class=" ">
         <!-- Facebook -->
         <a
-            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
             href="#!"
             role="button"
             data-mdb-ripple-color="dark"
@@ -13,7 +13,7 @@
 
         <!-- Twitter -->
         <a
-            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
             href="#!"
             role="button"
             data-mdb-ripple-color="dark"
@@ -22,7 +22,7 @@
 
         <!-- Google -->
         <a
-            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
             href="#!"
             role="button"
             data-mdb-ripple-color="dark"
@@ -31,7 +31,7 @@
 
         <!-- Instagram -->
         <a
-            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
             href="#!"
             role="button"
             data-mdb-ripple-color="dark"
@@ -40,15 +40,15 @@
 
         <!-- Linkedin -->
         <a
-            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
             href="#!"
             role="button"
             data-mdb-ripple-color="dark"
-        ><i class="fab fa-linkedin"></i
+        ><i class="fab fa-youtube"></i
             ></a>
         <!-- Spotify -->
         <a
-            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
             href="#!"
             role="button"
             data-mdb-ripple-color="dark"
@@ -56,7 +56,7 @@
             ></a>
         <!-- apple -->
         <a
-            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
             href="#!"
             role="button"
             data-mdb-ripple-color="dark"
@@ -65,7 +65,7 @@
 
         <!-- telegram -->
         <a
-            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
             href="#!"
             role="button"
             data-mdb-ripple-color="dark"

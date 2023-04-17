@@ -16,7 +16,7 @@ body {
     min-height: 100%;
 }
 
-.content {
+.timelinecontent {
     position: fixed;
     bottom: 0;
     background: rgba(0, 0, 0, 0.5);

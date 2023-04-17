@@ -7,11 +7,11 @@
 include "templates/nav.php"
 ?>
 
-    <div class = " container h1  text-danger" align="center" >
+    <div class = " timelinecontainer h1  text-danger" align="center" >
         <strong>Site is under Construction!</strong>
     </div>
 
-    <div class=" container ">
+    <div class=" timelinecontainer ">
             <img class="centeredimg" src="pictures/underconstruct.png" alt="">
     </div>
 

@@ -1,5 +1,5 @@
 <?php
-include "templates/header.php";
+include "templates/headervid.php";
 ?>
 
 <video autoplay muted loop id="myVideo">

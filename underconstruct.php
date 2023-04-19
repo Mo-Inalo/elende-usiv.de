@@ -12,7 +12,7 @@ include "templates/nav.php"
     </div>
 
     <div class=" timelinecontainer ">
-            <img class="centeredimg" src="pictures/underconstruct.png" alt="">
+            <img class="centeredimg" src="images/underconstruct.png" alt="">
     </div>
 
 <?php

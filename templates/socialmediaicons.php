@@ -5,13 +5,14 @@
         <!-- Facebook -->
         <a
             class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
-            href="#!"
+            href="https://www.facebook.com/elende.usiv"
             role="button"
             data-mdb-ripple-color="dark"
         ><i class="fab fa-facebook-f"></i
             ></a>
 
-        <!-- Twitter -->
+
+        <!-- Twitter
         <a
             class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
             href="#!"
@@ -19,8 +20,8 @@
             data-mdb-ripple-color="dark"
         ><i class="fab fa-twitter"></i
             ></a>
-
-        <!-- Google -->
+        -->
+        <!-- Google
         <a
             class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
             href="#!"
@@ -28,11 +29,11 @@
             data-mdb-ripple-color="dark"
         ><i class="fab fa-google"></i
             ></a>
-
+         -->
         <!-- Instagram -->
         <a
             class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
-            href="#!"
+            href="https://www.instagram.com/elende.usiv/"
             role="button"
             data-mdb-ripple-color="dark"
         ><i class="fab fa-instagram"></i
@@ -41,7 +42,7 @@
         <!-- Linkedin -->
         <a
             class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
-            href="#!"
+            href="https://www.youtube.com/@elendeusiv7372"
             role="button"
             data-mdb-ripple-color="dark"
         ><i class="fab fa-youtube"></i
@@ -49,7 +50,7 @@
         <!-- Spotify -->
         <a
             class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
-            href="#!"
+            href="https://open.spotify.com/intl-de/artist/3PHjtebOPjk5Dzrje9Ck2U?si=gUQZJabrTDi_RhthSpDjCg"
             role="button"
             data-mdb-ripple-color="dark"
         ><i class="fab fa-spotify"></i
@@ -66,7 +67,7 @@
         <!-- telegram -->
         <a
             class="btn btn-link btn-floating btn-lg socialmeidachannelsitemcolor m-1"
-            href="#!"
+            href="https://msng.link/o/?https://t.me/Elende_usiv=tg"
             role="button"
             data-mdb-ripple-color="dark"
         ><i class="fab fa-telegram"></i

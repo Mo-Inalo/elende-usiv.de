@@ -43,6 +43,12 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
                         Home
                     </a>
                 </li>
+                <li class="navbar-item  ">
+                    <a href="/elende-usiv.de/motivation.php" class="nav-link text-light
+                    <?php echo ($page == 'motivation') ? 'active' :''?>">
+                        Motivation
+                    </a>
+                </li>
                 <li class="navbar-item   ">
                     <a href="/studio.php" class="nav-link text-light
                     <?php echo ($page == 'studio') ? 'active' :''?>">
@@ -64,16 +70,11 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
                         <li><a class="dropdown-item text-light
                         <?php echo ($page == 'biography') ? 'active' :''?>" href="/biography.php">Biography</a></li>
                         <li><a class="dropdown-item text-light
-                        <?php echo ($page == 'motivation') ? 'active' :''?>" href="/motivation.php">Motivation</a></li>
+                        <?php echo ($page == 'projects') ? 'active' :''?>" href="/elende-usiv.de/projects.php">Projects</a></li>
 
                     </ul>
                 </li>
-                <li class="navbar-item  ">
-                    <a href="/projects.php" class="nav-link text-light
-                    <?php echo ($page == 'projects') ? 'active' :''?>">
-                        Projects
-                    </a>
-                </li>
+
                 <li class="navbar-item ">
                     <a href="/contact.php" class="nav-link text-light
                     <?php echo ($page == 'contact') ? 'active' :''?>">

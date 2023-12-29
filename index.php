@@ -14,10 +14,13 @@ include "templates/breakingnews.php"
 ?>
 
 
-<main>
+<main  >
+
+
+
     <div class="row"  style="background-image: url('images/entfer.png') ">
 
-        <div  class="col-md-7 p-5">
+        <div  class="col-md-7 p-5"style="">
             <img class="rounded-4 img-fluid height:auto border-primary-subtle" src="images/e1.jpg" alt="Elende Usiv"   >
         </div>
 
@@ -36,13 +39,13 @@ include "templates/breakingnews.php"
                 who have supported my journey and career as a film music composer.
 
             </h5>
-        <div style="text-align: center ; margin-top: -20px">
-            <img src="images/unterschrift.png" style="height=80%" width="80%">
+
+
         </div>
 
-        </div>
-
-
+    <?php
+    include "templates/motivatio.php"
+    ?>
 
 </main>
 

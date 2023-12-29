@@ -10,9 +10,6 @@ include "templates/nav.php"
 
 
 
-<?php
-include "templates/breakingnews.php"
-?>
 
 
 

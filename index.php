@@ -34,10 +34,11 @@ include "templates/breakingnews.php"
                 You can hear some of my music on YouTube, Soundcloud and Spotify.
                 At the same time as my film music career, I composed and arranged many pop songs for various Kurdish singers.
                 who have supported my journey and career as a film music composer.
-                <div style="text-align: center">
-                    <img src="images/unterschrift.png" style="height=80%" width="80%">
-                </div>
+
             </h5>
+        <div style="text-align: center ; margin-top: -20px">
+            <img src="images/unterschrift.png" style="height=80%" width="80%">
+        </div>
 
         </div>
 

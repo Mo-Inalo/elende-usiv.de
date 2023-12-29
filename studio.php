@@ -9,7 +9,7 @@
 
         body {
             margin: 0;
-            font-family: Arial;
+            font-family: "Sans Serif Collection";
             font-size: 17px;
         }
 

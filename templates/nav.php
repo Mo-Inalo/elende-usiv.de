@@ -65,8 +65,7 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
                         <?php echo ($page == 'biography') ? 'active' :''?>" href="/biography.php">Biography</a></li>
                         <li><a class="dropdown-item text-light
                         <?php echo ($page == 'motivation') ? 'active' :''?>" href="/motivation.php">Motivation</a></li>
-                        <li><a class="dropdown-item text-light
-                        <?php echo ($page == 'study') ? 'active' :''?>" href="/study.php">Study</a></li>
+
                     </ul>
                 </li>
                 <li class="navbar-item  ">

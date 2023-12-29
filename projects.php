@@ -9,11 +9,21 @@ include "templates/nav.php"
 ?>
 
 
+<style>
+a:link{
+    color: #1a1d20;
+    text-decoration: none;
+}
+a:visited{
+    color: #1a1d20;
+
+}
+
+</style>
 
 
 
-
-<main style="background-image: url('/elende-usiv.de/images/e3-opac.png'); background-size: cover; background-attachment: fixed;background-position: center center;" >
+<main style="font-weight: bold ; background-image: url('/elende-usiv.de/images/e4-opac.png'); background-size: cover; background-attachment: fixed;background-position: center center; opacity: initial" >
 
 
 <div  >

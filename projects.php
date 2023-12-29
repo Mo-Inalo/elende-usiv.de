@@ -23,7 +23,7 @@ a:visited{
 
 
 
-<main style="font-weight: bold ; background-image: url('/elende-usiv.de/images/e4-opac2.png'); background-size: cover; background-attachment: fixed;background-position: center center; opacity: initial" >
+<main style="font-weight: bold ; background-image: url('/elende-usiv.de/images/e4-opac3.png'); background-size: cover; background-attachment: fixed;background-position: center center" >
 
 
 <div  >

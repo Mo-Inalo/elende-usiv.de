@@ -59,6 +59,10 @@ include "templates/breakingnews.php"
                 orchestra and electronic contexts.
 
             </h4>
+        <div style="text-align: center;">
+            <img src="images/unterschrift.png" style="height=50%" width="50%">
+        </div>
+
         </div>
 
 

@@ -23,6 +23,34 @@ include "templates/breakingnews.php"
 <br>
 <br>
 <br>
+
+    <table class="table table-hover align-content-center">
+
+        <thead>
+        <tr>
+            <th scope="col"></th>
+            <th scope="col">Albums</th>
+            <th scope="col">Role</th>
+            <th scope="col">Year</th>
+        </tr>
+        </thead>
+        <tbody  >
+        <tr>
+            <th scope="row"></th>
+            <td><a href="https://www.youtube.com/watch?v=osVSP4WzVrg"> Winter </a></td>
+            <td>Composer</td>
+            <td>2023</td>
+        </tr>
+
+        </tbody>
+
+    </table>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
     <table class="table table-hover align-content-center">
 
         <thead>

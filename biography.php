@@ -9,9 +9,9 @@ include "templates/nav.php"
 ?>
 
 
-<div>
-<div class="timeline">
-    <div class="timelinecontainer left">
+<div  style="background-image: url('images/entfer.png')">
+<div class="timeline"  style="background-image: url('images/entfer.png')">
+    <div class="timelinecontainer left" >
         <div class="timelinecontent">
             <h2>1985</h2>
             <p>Elende Usiv is a Kurdish composer and guitarist, born March 21, 1985, in Al-Hasakah, Syria.</p>

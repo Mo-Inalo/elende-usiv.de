@@ -23,7 +23,7 @@ a:visited{
 
 
 
-<main style="font-weight: bold ; background-image: url('/elende-usiv.de/images/e4-opac3.png'); background-size: cover; background-attachment: fixed;background-position: center center" >
+<main style="font-weight: bold ; background-image: url('/images/e4-opac3.png'); background-size: cover; background-attachment: fixed;background-position: center center" >
 
 
 <div  >
@@ -44,7 +44,7 @@ a:visited{
         <tbody  >
         <tr>
             <th scope="row"></th>
-            <td><a href="https://www.youtube.com/watch?v=osVSP4WzVrg"> Winter </a></td>
+            <td><a href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer"> Winter </a></td>
             <td>Composer</td>
             <td>2023</td>
         </tr>
@@ -94,14 +94,14 @@ a:visited{
 
         <tr>
             <th scope="row"> </th>
-            <td><a href="https://www.youtube.com/watch?v=JYh1wMtfE7Y"> A Nipple Story | Dir. Rodi Hameh (Dasra Film)</a></td>
+            <td><a href="https://www.youtube.com/watch?v=JYh1wMtfE7Y"target="_blank" rel="noopener noreferrer"> A Nipple Story | Dir. Rodi Hameh (Dasra Film)</a></td>
             <td> Composer </td>
             <td>2022</td>
         </tr>
 
         <tr>
             <th scope="row"> </th>
-            <td><a href="https://www.youtube.com/watch?v=ZEzIY8GP3bA&t=1s"> 16 SECONDS | Dir. Diya Al Abdullah (Kurdland 9) </a></td>
+            <td><a href="https://www.youtube.com/watch?v=ZEzIY8GP3bA&t=1s" target="_blank" rel="noopener noreferrer"> 16 SECONDS | Dir. Diya Al Abdullah (Kurdland 9) </a></td>
             <td> Composer </td>
             <td>2022</td>
         </tr>

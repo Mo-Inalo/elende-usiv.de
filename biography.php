@@ -9,8 +9,14 @@ include "templates/nav.php"
 ?>
 
 
-<div  style="background-image: url('images/entfer.png')">
-<div class="timeline"  style="background-image: url('images/entfer.png')">
+<div style="background-image: url('images/entfer.png')">
+<div class="timeline" style="background-image: url('images/entfer.png')">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
     <div class="timelinecontainer left" >
         <div class="timelinecontent">
             <h2>1985</h2>
@@ -39,17 +45,13 @@ include "templates/nav.php"
     </div>
     <div class="timelinecontainer left">
         <div class="timelinecontent">
-            <h2>2017</h2>
-            <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim
-                fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-        </div>
-    </div>
-    <div class="timelinecontainer right">
-        <div class="timelinecontent">
-            <h2>2018</h2>
+            <h2>2021</h2>
             <p>In 2021 he worked as an intern with the German composer (Olaf Didolf) in the famous German series (Tatort).</p>
         </div>
     </div>
+    <br>
+    <br>
+
 </div>
 
 </div>

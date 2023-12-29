@@ -14,7 +14,7 @@ include "templates/nav.php"
 
 
 <div class="containercontact" style="background: url('/elende-usiv.de/images/entfer.png')">
-    <form action="https://formsubmit.co/m.inalo@hotmail.com" method="POST" class="p-md-5">
+    <form action="https://formsubmit.co/musicelend@hotmail.com" method="POST" class="p-md-5">
 
         <select name="title" required>
             <option>Title </option>

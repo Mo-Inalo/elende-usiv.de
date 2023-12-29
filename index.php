@@ -18,7 +18,7 @@ include "templates/breakingnews.php"
     <div class="row"  style="background-image: url('images/entfer.png') ">
 
         <div  class="col-md-7 p-5">
-            <img class="rounded-3 img-fluid height:auto border-primary-subtle  " src="images/e1.jpg" alt="Elende Usiv"   >
+            <img class="rounded-4 img-fluid height:auto border-primary-subtle" src="images/e1.jpg" alt="Elende Usiv"   >
         </div>
 
         <div class=" col-md-5 h6 text-dark p-5" ">

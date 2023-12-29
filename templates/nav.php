@@ -44,7 +44,7 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
                     </a>
                 </li>
                 <li class="navbar-item  ">
-                    <a href="/elende-usiv.de/motivation.php" class="nav-link text-light
+                    <a href="/motivation.php" class="nav-link text-light
                     <?php echo ($page == 'motivation') ? 'active' :''?>">
                         Motivation
                     </a>
@@ -70,7 +70,7 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
                         <li><a class="dropdown-item text-light
                         <?php echo ($page == 'biography') ? 'active' :''?>" href="/biography.php">Biography</a></li>
                         <li><a class="dropdown-item text-light
-                        <?php echo ($page == 'projects') ? 'active' :''?>" href="/elende-usiv.de/projects.php">Projects</a></li>
+                        <?php echo ($page == 'projects') ? 'active' :''?>" href="/projects.php">Projects</a></li>
 
                     </ul>
                 </li>

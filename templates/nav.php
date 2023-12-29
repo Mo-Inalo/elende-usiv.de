@@ -56,7 +56,7 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
                     </a>
                 </li>
                 <li class="navbar-item dropdown
-                <?php echo ($page == 'biography' || $page =='motivation' || $page =='study') ? 'active' :''?>">
+                <?php echo ($page == 'biography' || $page =='projects') ? 'active' :''?>">
                     <a href="#"
                        class="nav-link dropdown-toggle text-light"
                        id="navbarDropdown"

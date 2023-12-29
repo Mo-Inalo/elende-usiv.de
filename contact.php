@@ -14,19 +14,29 @@ include "templates/nav.php"
 
 
 <div class="containercontact" style="background: url('/elende-usiv.de/images/entfer.png')">
-    <form action="action_page.php"  method="post" class="p-md-5">
+    <form action="https://formsubmit.co/m.inalo@hotmail.com" method="POST" class="p-md-5">
+
+        <select name="title" required>
+            <option>Title </option>
+            <option>Mr </option>
+            <option>Mrs</option>
+            <option>Mx</option>
+
+        </select>
+
+
 
         <label for="fname">First Name</label>
-        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        <input type="text" id="fname" name="firstname" placeholder="Please insert your given name.." required>
 
         <label for="lname">Last Name</label>
-        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+        <input type="text" id="lname" name="lastname" placeholder="Please insert your sure/last name.." required>
 
-        <label for="country">Phone</label>
-        <input type="text" id="tele" name="tele" placeholder="Your phone number..">
+        <label for="tele">Phone</label>
+        <input type="text" id="tele" name="tele" placeholder="Please insert your phone number.." required>
 
         <label for="subject">Subject</label>
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+        <textarea id="subject" name="subject" placeholder="Please write here your message .. " style="height:200px" required></textarea>
 
         <input type="submit" value="Submit" style="background: rgba(9,154,18,0.45)">
 

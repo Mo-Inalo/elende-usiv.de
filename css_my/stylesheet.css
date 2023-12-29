@@ -134,6 +134,13 @@ textarea {
 
     background-color: rgb(171, 171, 175);
 }
+select {
+    background-color: rgb(171, 171, 175);
+}
+
+option {
+    background-color: rgb(171, 171, 175);
+}
 
 /* The actual timeline (the vertical ruler) */
 .timeline {

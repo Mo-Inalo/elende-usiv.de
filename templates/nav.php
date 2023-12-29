@@ -1,7 +1,6 @@
 <?php
 $page = basename($_SERVER['PHP_SELF'],'.php');
 ?>
-
 <nav class=" navbar navbar-expand-md mynavcolor">
     <div class="container">
 

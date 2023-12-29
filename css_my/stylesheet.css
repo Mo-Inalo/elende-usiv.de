@@ -281,3 +281,16 @@ input[type=submit]:hover {
     }
 }
 
+
+
+audio {
+
+    padding-top: 6px;
+    filter: sepia(10%) saturate(10%) grayscale(1) contrast(40%) invert(0%);
+    width: 300px;
+    height: 30px;
+
+
+
+
+}

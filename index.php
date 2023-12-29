@@ -11,7 +11,6 @@ include "templates/nav.php"
 
 
 
-
 <main  >
 
     <div class="row"  style="background-image: url('images/entfer.png') ">

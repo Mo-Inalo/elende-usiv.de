@@ -13,6 +13,7 @@ include "templates/nav.php"
 include "templates/breakingnews.php"
 ?>
 
+
 <main>
     <div class="row pagecolor ">
 
@@ -20,8 +21,10 @@ include "templates/breakingnews.php"
             <img class="rounded-3 img-fluid height:auto border-primary-subtle  " src="images/e1.jpg" alt="Elende Usiv"   >
         </div>
 
-        <div class=" col-md-5 h6 text-dark p-5">
+        <div class=" col-md-5 h6 text-dark p-5 " >
 
+            <p class="h2 my-5 text-dark">Elende Usiv
+                Film music composer </p>
 
             <p class="h2 my-5 text-dark"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
                 worked on films and commercials.

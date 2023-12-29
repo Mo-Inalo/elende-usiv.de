@@ -18,12 +18,16 @@
 }
 
 .pagecolor {
-    background-color: rgba(133, 135, 136, 0.99);
+    background-color: rgba(133, 135, 136, 1);
 }
 
+
+
+
 .breaking {
+
     background-color: rgba(106, 108, 108, 0.99);
-    margin-bottom: 0px;
+
 }
 
 .socialmeidachannels {
@@ -120,7 +124,7 @@ input[type=submit]:hover {
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
-    background-color: rgba(133, 135, 136, 0.99);
+    background-color: rgba(133, 136, 135, 0.73);
     position: relative;
     max-width: 1200px;
     margin: 0 auto;
@@ -206,7 +210,7 @@ input[type=submit]:hover {
 /* The actual content */
 .timelinecontent {
     padding: 20px 30px;
-    background-color: #4f4d4d;
+    background-color: rgb(204, 200, 200);
     position: relative;
     border-radius: 6px;
 }
@@ -243,3 +247,7 @@ input[type=submit]:hover {
         left: 0%;
     }
 }
+
+
+
+

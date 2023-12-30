@@ -39,7 +39,7 @@ include "templates/nav.php"
 
 
 
-    <div class=" px-5 py-5" ; style="background-image: url('/elende-usiv.de/images/e4-opac.png'); background-size: cover; background-attachment: fixed;background-position: center center;">
+    <div class=" px-5 py-5" ; style="background-image: url('/images/e3-opac.png'); background-size: cover; background-attachment: fixed;background-position: center center;">
 
             <h4 align="center" class="Elendeauswahl">
                 Film music has always been the main subject of many fundamental questions, as it is an essential element of a film.
@@ -60,6 +60,18 @@ include "templates/nav.php"
         <div style="text-align: center;">
             <img src="images/unterschrift.png" style="height=50%" width="50%">
         </div>
+
+        <div align="center" class="mx-5 my-5">
+            <a href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer">
+                <img src="images/ablumcover_winter2.jpg" style="
+    border-radius: 50%;
+    height: 100%;
+    width: 50%;
+">
+            </a>
+
+        </div>
+
 
         </div>
 

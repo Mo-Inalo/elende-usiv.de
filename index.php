@@ -13,10 +13,14 @@ include "templates/nav.php"
 
 <main  >
 
-    <div class="row"  style="background-image: url('images/entfer.png') ">
+    <div  style="background-image: url('images/entfer.png') ">
         <?php
         include "templates/breakingnews.php"
         ?>
+
+
+<div class="row" style="margin-right:auto">
+
 
         <div  class="col-md-7 p-5" >
             <img class="rounded-4 img-fluid height:auto border-primary-subtle" src="images/e1.jpg" alt="Elende Usiv"   >
@@ -30,7 +34,7 @@ include "templates/nav.php"
 
             <h5 class="Elendeauswahl">Film music composer</h5>
 
-            <h5 class="h4 my-5 Elendeauswahl" align="left"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
+            <h5 class="  my-5 Elendeauswahl" align="left"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
                 worked on films and commercials.
                 You can hear some of my music on YouTube, Soundcloud and Spotify.
                 At the same time as my film music career, I composed and arranged many pop songs for various Kurdish singers.
@@ -43,7 +47,7 @@ include "templates/nav.php"
 
 
         </div>
-
+</div>
 
     <div class=" px-5 py-3">
         <h4 align="center" class="Elendeauswahl">

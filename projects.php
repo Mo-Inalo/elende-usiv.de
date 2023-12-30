@@ -10,20 +10,24 @@ include "templates/nav.php"
 
 
 <style>
-a:link{
-    color: #1a1d20;
-    text-decoration: none;
-}
-a:visited{
-    color: #1a1d20;
 
-}
+    #special{
+        a:link{
+            color: #1a1d20;
+            text-decoration: none;
+        }
+        a:visited{
+            color: #1a1d20;
+
+        }
+    }
+
 
 </style>
 
 
 
-<main style="font-weight: bold ; background-image: url('/images/e4-opac3.png'); background-size: cover; background-attachment: fixed;background-position: center center" >
+<main id="special" style="font-weight: bold ; background-image: url('/images/e4-opac3.png'); background-size: cover; background-attachment: fixed;background-position: center center" >
 
 
 <div  >

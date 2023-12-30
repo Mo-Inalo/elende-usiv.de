@@ -34,14 +34,14 @@ include "templates/nav.php"
 
             <h5 class="Elendeauswahl">Film music composer</h5>
 
-            <h5 class="  my-5 Elendeauswahl" align="left"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
+            <h5 class=" my-5 Elendeauswahl" style="text-align: justify"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
                 worked on films and commercials.
                 You can hear some of my music on YouTube, Soundcloud and Spotify.
                 At the same time as my film music career, I composed and arranged many pop songs for various Kurdish singers.
                 who have supported my journey and career as a film music composer.
 
             </h5>
-        <div style="text-align: center;">
+        <div style="text-align: justify;">
             <img src="images/unterschrift.png" style="height=80%" width="80%">
         </div>
 

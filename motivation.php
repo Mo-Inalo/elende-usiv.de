@@ -39,9 +39,9 @@ include "templates/nav.php"
 
 
 
-    <div class=" px-5 py-5" ; style="background-image: url('/images/e3-opac.png'); background-size: cover; background-attachment: fixed;background-position: center center;">
-
-            <h4 align="center" class="Elendeauswahl">
+    <div class=" p-5" ; style="background-image: url('/images/e3-opac.png'); background-size: cover; background-attachment: fixed;background-position: center center;">
+        <div class="p-5">
+            <h4 style="text-align: justify" class="Elendeauswahl">
                 Film music has always been the main subject of many fundamental questions, as it is an essential element of a film.
                 Film music could always play an important role in shaping the final version of the film, in addition to carrying
                 the film's narrative context.
@@ -57,6 +57,7 @@ include "templates/nav.php"
                 orchestra and electronic contexts.
 
             </h4>
+        </div>
         <div style="text-align: center;">
             <img src="images/unterschrift.png" style="height=50%" width="50%">
         </div>

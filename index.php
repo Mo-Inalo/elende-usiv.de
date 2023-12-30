@@ -18,19 +18,19 @@ include "templates/nav.php"
         include "templates/breakingnews.php"
         ?>
 
-        <div  class="col-md-7 p-5"style="">
+        <div  class="col-md-7 p-5" >
             <img class="rounded-4 img-fluid height:auto border-primary-subtle" src="images/e1.jpg" alt="Elende Usiv"   >
         </div>
 
-        <div class=" col-md-5 h6 text-dark p-5" ">
+        <div class=" col-md-5  text-dark p-5">
 
         <div class="typewriter">
-            <h1>Elende Usiv</h1>
+            <h1 class="Elendeauswahl">Elende Usiv</h1>
         </div>
 
-            <h4 class="Elendeauswahl">Film music composer</h4>
+            <h5 class="Elendeauswahl">Film music composer</h5>
 
-            <h5 class="h4 my-5 Elendeauswahl"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
+            <h5 class="h4 my-5 Elendeauswahl" align="left"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
                 worked on films and commercials.
                 You can hear some of my music on YouTube, Soundcloud and Spotify.
                 At the same time as my film music career, I composed and arranged many pop songs for various Kurdish singers.
@@ -38,14 +38,14 @@ include "templates/nav.php"
 
             </h5>
         <div style="text-align: center;">
-            <img src="images/unterschrift.png" style="height=90%" width="90%">
+            <img src="images/unterschrift.png" style="height=80%" width="80%">
         </div>
 
 
         </div>
 
 
-    <div class=" px-5 py-5">
+    <div class=" px-5 py-3">
         <h4 align="center" class="Elendeauswahl">
             Film music has always been the main subject of many fundamental questions, as it is an essential element of a film.
             Film music could always play an important role in shaping the final version of the film, in addition to carrying
@@ -60,9 +60,26 @@ include "templates/nav.php"
             music (synthesizers), incorporating them into music pieces that serve the narrative context of my compositions.
             Being familiar with oriental music, I have used ethnic instruments such as duduk and oud partly, along with classical
             orchestra and electronic contexts.
+            <br>
+            <br>
 
         </h4>
     </div>
+
+
+
+        <div align="center" class="mx-5 my-5">
+            <a href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer">
+                <img src="images/ablumcover_winter.jpg" style="
+    border-radius: 50%;
+    height: 100%;
+    width: 50%;
+">
+            </a>
+
+        </div>
+
+
 
 
 </main>

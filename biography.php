@@ -10,7 +10,7 @@ include "templates/nav.php"
 
 
 <div style="background-image: url('images/entfer.png')">
-<div class="timeline" style="background-image: url('images/entfer.png')">
+<div class="timeline">
     <br>
     <br>
     <br>

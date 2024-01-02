@@ -84,6 +84,36 @@ include "templates/nav.php"
         </div>
 
 
+        <div align="center" class="mx-5 my-5">
+
+            <h1>Compare Two Images</h1>
+
+            <p>Click and slide the blue slider to compare two images:</p>
+
+
+            <div class="img-comp-container">
+                <div class="img-comp-img">
+                    <img src="images/ablumcover_winter.jpg" width="300" height="200">
+                </div>
+                <div class="img-comp-img img-comp-overlay">
+                    <img src="images/ablumcover_winter2.jpg" width="300" height="200">
+                </div>
+            </div>
+
+
+
+
+
+
+            <script>
+                /*Execute a function that will execute an image compare function for each element with the img-comp-overlay class:*/
+                initComparisons();
+            </script>
+
+
+        </div>
+
+
 
 
 </main>

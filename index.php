@@ -83,7 +83,7 @@ include "templates/nav.php"
 
         </div>
 
-
+<!--
         <div align="center" class="mx-5 my-5">
 
             <h1>Compare Two Images</h1>
@@ -99,7 +99,7 @@ include "templates/nav.php"
                     <img src="images/ablumcover_winter2.jpg" width="300" height="200">
                 </div>
             </div>
-
+-->
 
 
 

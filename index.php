@@ -91,7 +91,7 @@ include "templates/nav.php"
             <p>Click and slide the blue slider to compare two images:</p>
 
 
-            <div class="img-comp-container">
+            <div class="img-comp-container">git
                 <div class="img-comp-img">
                     <img src="images/ablumcover_winter.jpg" width="300" height="200">
                 </div>

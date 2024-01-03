@@ -18,7 +18,7 @@
 
 
         <div  align="center">
-          <h5 >
+          <h6 >
            <!-- &#9835; -->  It's out! check my new album n
               <i class="bi bi-play-circle" id="playbutton">
                   <a   style ="margin: -3px" class="text-dark " href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer" >
@@ -28,7 +28,7 @@
                       </a>
                   </svg>
               </i>w
-          </h5>
+          </h6>
 
     </div>
 

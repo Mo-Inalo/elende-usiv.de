@@ -24,7 +24,7 @@ include "templates/nav.php"
     }
 
 
-    @media  (max-width: 766px) {
+    @media only screen and  (max-width: 766px) {
         .backgroundresponive2 {
             background-image: url('/images/e4-opac.png');
             background-size: cover;
@@ -35,7 +35,7 @@ include "templates/nav.php"
     }
 
 
-    @media  (min-width: 766px) {
+    @media only screen and (min-width: 767px) {
         .backgroundresponive2 {
             background-image: url("/images/entfer.png");
             background-size: cover;

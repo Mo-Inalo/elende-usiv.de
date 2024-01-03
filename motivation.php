@@ -31,6 +31,30 @@ include "templates/nav.php"
             display: table;
             clear: both;
         }
+
+
+
+        @media  (max-width: 766px) {
+            .backgroundresponive {
+                background-image: url('/images/e3-opac.png');
+                background-size: cover;
+                background-attachment: fixed;
+                background-position: center center;
+            }
+        }
+
+
+        @media  (min-width: 766px) {
+            .backgroundresponive {
+                background-image: url("/images/entfer.png");
+                background-size: cover;
+                background-attachment: fixed;
+                background-position: center center;
+            }
+        }
+
+
+
     </style>
 
 
@@ -39,7 +63,7 @@ include "templates/nav.php"
 
 
 
-    <div class=" p-5" ; style="background-image: url('/images/e3-opac.png'); background-size: cover; background-attachment: fixed;background-position: center center;">
+    <div class=" p-5 backgroundresponive ">
         <div class="p-5">
             <h4 style="text-align: justify" class="Elendeauswahl">
                 Film music has always been the main subject of many fundamental questions, as it is an essential element of a film.

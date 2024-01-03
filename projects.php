@@ -18,16 +18,40 @@ include "templates/nav.php"
         }
         a:visited{
             color: #1a1d20;
+            text-decoration: none;
 
         }
     }
+
+
+    @media  (max-width: 766px) {
+        .backgroundresponive2 {
+            background-image: url('/images/e4-opac.png');
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center center;
+            font-weight: bold
+        }
+    }
+
+
+    @media  (min-width: 766px) {
+        .backgroundresponive2 {
+            background-image: url("/images/entfer.png");
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center center;
+            font-weight: bold
+        }
+    }
+
 
 
 </style>
 
 
 
-<main id="special" style="font-weight: bold ; background-image: url('/images/e4-opac3.png'); background-size: cover; background-attachment: fixed;background-position: center center" >
+<main class="backgroundresponive2" >
 
 
 <div  >
@@ -35,7 +59,7 @@ include "templates/nav.php"
 <br>
 <br>
 
-    <table class="table table-hover align-content-center">
+    <table id="special" class="table table-hover align-content-center">
 
         <thead>
         <tr>

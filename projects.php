@@ -44,6 +44,11 @@ include "templates/nav.php"
             font-weight: bold
         }
     }
+    @media (pointer: coarse) {
+        .backgroundresponive2 {
+            background-attachment: initial !important;
+        }
+    }
 
 
 

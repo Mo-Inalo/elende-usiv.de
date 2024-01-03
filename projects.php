@@ -37,7 +37,7 @@ include "templates/nav.php"
 
     @media only screen and (min-width: 767px) {
         .backgroundresponive2 {
-            background-image: url("/images/entfer.png");
+            background-image: url("/images/e4-opac.png");
             background-size: cover;
             background-attachment: fixed;
             background-position: center center;

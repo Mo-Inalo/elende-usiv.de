@@ -36,7 +36,7 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
         <div class="collapse navbar-collapse justify-content-center text-light "
              id="navbarNav">
             <ul class="navbar-nav text-light ">
-                <li class="navbar-item   ">
+                <li class="navbar-item " >
                     <a href="/index.php" class="nav-link text-light
                     <?php echo ($page == 'index') ? 'active' :''?> ">
                         Home

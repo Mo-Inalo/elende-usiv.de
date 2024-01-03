@@ -62,14 +62,11 @@ include "templates/nav.php"
             <img src="images/unterschrift.png" style="height=50%" width="50%">
         </div>
 
+        <br>
         <div align="center" class="mx-5 my-5">
-            <a href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer">
-                <img src="images/ablumcover_winter2.jpg" style="
-    border-radius: 50%;
-    height: 100%;
-    width: 50%;
-">
-            </a>
+            <?php
+            include "templates/slider.php"
+            ?>
 
         </div>
 

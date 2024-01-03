@@ -28,9 +28,9 @@ include "templates/nav.php"
         .backgroundresponive2 {
             background-image: url('/images/e4-opac.png');
             background-size: cover;
-            background-attachment: fixed;
             background-position: center center;
             font-weight: bold
+            background-attachment: initial;
         }
     }
 
@@ -39,16 +39,12 @@ include "templates/nav.php"
         .backgroundresponive2 {
             background-image: url("/images/entfer.png");
             background-size: cover;
-            background-attachment: fixed;
+            background-attachment: initial;
             background-position: center center;
             font-weight: bold
         }
     }
-    @media (pointer: coarse) {
-        .backgroundresponive2 {
-            background-attachment: initial !important;
-        }
-    }
+
 
 
 

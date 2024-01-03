@@ -35,20 +35,20 @@ include "templates/nav.php"
 
 
         @media only screen and (max-width: 766px) {
-            .backgroundresponive {
+            .backgroundresponsive {
                 background-image: url('/images/e3-opac.png');
                 background-size: cover;
-                background-attachment: fixed;
+                background-attachment: initial;
                 background-position: center center;
             }
         }
 
 
         @media  only screen and (min-width: 767px) {
-            .backgroundresponive {
-                background-image: url("/images/entfer.png");
+            .backgroundresponsive {
+                background-image: url("/images/e3-opac.png");
                 background-size: cover;
-                background-attachment: fixed;
+                background-attachment: initial;
                 background-position: center center;
             }
         }
@@ -63,7 +63,7 @@ include "templates/nav.php"
 
 
 
-    <div class=" p-5 backgroundresponive ">
+    <div class=" p-5 backgroundresponsive ">
         <div class="p-5">
             <h4 style="text-align: justify" class="Elendeauswahl">
                 Film music has always been the main subject of many fundamental questions, as it is an essential element of a film.

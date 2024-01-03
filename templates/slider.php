@@ -97,13 +97,13 @@
 
 <div class="slideshow-container">
 
-    <div class="mySlides fade">
+    <div class="mySlides">
         <a href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer">
         <img src="/images/ablumcover_winter2.jpg" style="width:100%">
         </a>
     </div>
 
-    <div class="mySlides fade">
+    <div class="mySlides ">
         <a href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer">
         <img src="/images/ablumcover_winter.jpg" style="width:100%">
         </a>

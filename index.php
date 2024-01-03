@@ -42,7 +42,7 @@ include "templates/nav.php"
 
             </h3>
         <div class="mx-5">
-            <img src="images/unterschrift.png">
+            <img src="images/unterschrift.png" style="width: 110%; height: 70%" alt="">
         </div>
 
 

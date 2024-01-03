@@ -34,15 +34,15 @@ include "templates/nav.php"
 
             <h5 class="Elendeauswahl">Film music composer</h5>
 
-            <h5 class=" my-5 Elendeauswahl" style="text-align: justify"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
+            <h3 class=" my-5 Elendeauswahl" style="text-align: justify"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
                 worked on films and commercials.
                 You can hear some of my music on YouTube, Soundcloud and Spotify.
                 At the same time as my film music career, I composed and arranged many pop songs for various Kurdish singers.
                 who have supported my journey and career as a film music composer.
 
-            </h5>
-        <div style="text-align: justify;">
-            <img src="images/unterschrift.png" style="height=80%" width="80%">
+            </h3>
+        <div class="mx-5">
+            <img src="images/unterschrift.png">
         </div>
 
 
@@ -70,13 +70,15 @@ include "templates/nav.php"
         </h4>
 
     </div>
-
+        <br>
         <div align="center" class="mx-5 my-5">
             <?php
             include "templates/slider.php"
             ?>
 
         </div>
+
+
 
         <div align="center" class="mx-5 my-5">
             <?php
@@ -85,7 +87,7 @@ include "templates/nav.php"
 
         </div>
 
-
+        <br>
 </main>
 
 

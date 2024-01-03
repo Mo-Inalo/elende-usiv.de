@@ -71,9 +71,12 @@
         transition: background-color 0.6s ease;
     }
 
-    .active, .dot:hover {
-        background-color: #717171;
+
+    .dot:active, .dot:hover {
+        background-color: rgb(73, 66, 66);
     }
+
+
 
     /* Fading animation */
     .fade {
@@ -99,13 +102,13 @@
 
     <div class="mySlides">
         <a href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer">
-        <img src="/images/ablumcover_winter2.jpg" style="width:100%">
+            <img src="/images/ablumcover_winter2.jpg" style="width:100%">
         </a>
     </div>
 
     <div class="mySlides ">
         <a href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer">
-        <img src="/images/ablumcover_winter.jpg" style="width:100%">
+            <img src="/images/ablumcover_winter.jpg" style="width:100%">
         </a>
     </div>
 </div>
@@ -145,4 +148,4 @@
         dots[slideIndex-1].className += " active";
     }
 </script>
-
+</script>

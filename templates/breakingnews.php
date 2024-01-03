@@ -18,7 +18,7 @@
 
 
         <div  align="center">
-          <h6 >
+          <h6  style="padding: 3px">
            <!-- &#9835; -->  It's out! check my new album n
               <i class="bi bi-play-circle" id="playbutton">
                   <a   style ="margin: -3px" class="text-dark " href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer" >

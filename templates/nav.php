@@ -5,7 +5,7 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
     <div class="container">
 
         <a href="/index.php"
-           class="navbar-brand  ">
+           class="navbar-brand">
             <img
                 class="d-block align-top"
                 src ="/images/logo2.png "

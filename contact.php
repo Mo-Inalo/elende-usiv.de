@@ -42,8 +42,8 @@ include "templates/nav.php"
         <label for="email">E-Mail</label>
         <input type="text" id="email" name="email" placeholder="Please insert your E-Mail .." required>
 
-        <label for="adress">Adress</label>
-        <input type="text" id="adress" name="adress" placeholder="Please insert your Adress ..">
+        <label for="address">Address</label>
+        <input type="text" id="address" name="address" placeholder="Please insert your Address ..">
 
         <label for="subject">Subject</label>
         <textarea id="subject" name="subject" placeholder="Please write here your message .. " style="height:200px" required></textarea>

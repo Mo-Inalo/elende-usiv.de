@@ -1,3 +1,11 @@
+<style>
+a{
+    color: black!important;
+    }
+
+</style>
+
+
 <?php
 include "templates/header.php";
 ?>
@@ -9,25 +17,7 @@ include "templates/nav.php"
 ?>
 
 
-<style>
 
-    #special{
-        a:link{
-            color: #1a1d20;
-            text-decoration: none;
-        }
-        a:visited{
-            color: #1a1d20;
-            text-decoration: none;
-
-        }
-    }
-}
-
-
-
-
-</style>
 
 
 
@@ -41,7 +31,7 @@ include "templates/nav.php"
 <br>
 <br>
 
-    <table id="special" class="table table-hover align-content-center">
+    <table class="table table-hover align-content-center">
 
         <thead>
         <tr>
@@ -104,7 +94,7 @@ include "templates/nav.php"
 
         <tr>
             <th scope="row"> </th>
-            <td><a href="https://www.youtube.com/watch?v=JYh1wMtfE7Y"target="_blank" rel="noopener noreferrer"> A Nipple Story | Dir. Rodi Hameh (Dasra Film)</a></td>
+            <td><a href="https://www.youtube.com/watch?v=JYh1wMtfE7Y" target="_blank" rel="noopener noreferrer"> A Nipple Story | Dir. Rodi Hameh (Dasra Film)</a></td>
             <td> Composer </td>
             <td>2022</td>
         </tr>

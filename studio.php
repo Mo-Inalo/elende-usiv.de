@@ -12,7 +12,7 @@
             font-family: "Sans Serif Collection", serif;
             font-size: 17px;
 
-            background-color: rgb(31, 31, 31);
+            background-color: rgb(0,0,0);
 
 
 

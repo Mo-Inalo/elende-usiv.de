@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
@@ -9,8 +9,13 @@
 
         body {
             margin: 0;
-            font-family: "Sans Serif Collection";
+            font-family: "Sans Serif Collection", serif;
             font-size: 17px;
+
+            background-color: rgb(31, 31, 31);
+
+
+
         }
 
         #myVideo {
@@ -45,17 +50,18 @@
             color: black;
         }
     </style>
+    <title></title>
 </head>
 <body>
 
-<video autoplay unmuted loop id="myVideo">
+<video autoplay unmuted loop id="myVideo" style="max-height: 464px; max-width: 848px ">
     <source src="/videos/winter.MP4" type="video/mp4" >
     Your browser does not support HTML5 video.
 </video>
 
 <div class="content">
 
-    <button id="myBtn" onclick="myFunction()">Pause</button>
+    <button id="myBtn" onclick="myFunction()">Play/Pause</button>
 </div>
 
 <script>

@@ -22,28 +22,7 @@ include "templates/nav.php"
 
         }
     }
-
-
-    @media only screen and  (max-width: 766px) {
-        .backgroundresponive2 {
-            background-image: url('/images/e4-opac.png');
-            background-size: cover;
-            background-position: center center;
-            font-weight: bold
-            background-attachment: initial;
-        }
-    }
-
-
-    @media only screen and (min-width: 767px) {
-        .backgroundresponive2 {
-            background-image: url("/images/e4-opac.png");
-            background-size: cover;
-            background-attachment: initial;
-            background-position: center center;
-            font-weight: bold
-        }
-    }
+}
 
 
 
@@ -52,7 +31,9 @@ include "templates/nav.php"
 
 
 
-<main class="backgroundresponive2" >
+<main  style=" background-image: url('images/entfer.png') " >
+
+    <div    style=" ; max-width: 1400px ; margin-left: auto; margin-right: auto" >
 
 
 <div  >
@@ -246,6 +227,7 @@ include "templates/nav.php"
     <br>
     <br>
 
+    </div>
 </main>
 
 <?php

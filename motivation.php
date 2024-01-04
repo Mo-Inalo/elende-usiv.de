@@ -1,12 +1,3 @@
-<?php
-include "templates/header.php";
-?>
-
-
-
-<?php
-include "templates/nav.php"
-?>
 
 
 
@@ -34,36 +25,30 @@ include "templates/nav.php"
 
 
 
-        @media only screen and (max-width: 766px) {
-            .backgroundresponsive {
-                background-image: url('/images/e3-opac.png');
-                background-size: cover;
-                background-attachment: initial;
-                background-position: center center;
-            }
-        }
-
-
-        @media  only screen and (min-width: 767px) {
-            .backgroundresponsive {
-                background-image: url("/images/e3-opac.png");
-                background-size: cover;
-                background-attachment: initial;
-                background-position: center center;
-            }
-        }
 
 
 
     </style>
 
+    <?php
+    include "templates/header.php";
+    ?>
 
 
 
+    <?php
+    include "templates/nav.php"
+    ?>
 
 
 
-    <div class=" p-5 backgroundresponsive ">
+    <main  style=" background-image: url('images/entfer.png') " >
+
+        <div    style=" ; max-width: 1400px ; margin-left: auto; margin-right: auto" >
+
+
+
+    <div class=" p-5   ">
         <div class="p-5">
             <h4 style="text-align: justify" class="Elendeauswahl">
                 Film music has always been the main subject of many fundamental questions, as it is an essential element of a film.
@@ -98,7 +83,8 @@ include "templates/nav.php"
         </div>
 
 
-
+</div>
+    </main>
 
 
 <?php

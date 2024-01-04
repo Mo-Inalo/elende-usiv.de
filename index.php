@@ -11,12 +11,12 @@ include "templates/nav.php"
 
 
 
-<main  >
+<main  style="background-image: url('images/entfer.png') "  >
+    <?php
+    include "templates/breakingnews.php"
+    ?>
+    <div  style=" max-width: 1400px ; margin-left: auto; margin-right: auto" >
 
-    <div  style="background-image: url('images/entfer.png') ">
-        <?php
-        include "templates/breakingnews.php"
-        ?>
 
 
 <div class="row" style="margin-right:auto">

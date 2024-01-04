@@ -15,7 +15,7 @@ include "templates/nav.php"
 
 <div class="containercontact" style="background: url('/images/entfer.png')">
 
-    <form action="https://formsubmit.co/musicelend@hotmail.com" method="POST" class="p-md-5">
+    <form action="https://formsubmit.co/musicelend@hotmail.com" method="POST" class="p-md-5" style="max-width: 1000px ; margin-left: auto; margin-right: auto"">
 
         <select name="title" required>
             <option>Select a Title </option>

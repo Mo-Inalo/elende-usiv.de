@@ -34,13 +34,13 @@ include "templates/nav.php"
 
             <h5 class="Elendeauswahl">Film music composer</h5>
 
-            <h3 class=" my-5 Elendeauswahl" style="text-align: justify"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
+            <h5 class=" my-5 Elendeauswahl" style="text-align: justify"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
                 worked on films and commercials.
                 You can hear some of my music on YouTube, Soundcloud and Spotify.
                 At the same time as my film music career, I composed and arranged many pop songs for various Kurdish singers.
                 who have supported my journey and career as a film music composer.
 
-            </h3>
+            </h5>
         <div class="mx-5">
             <img src="images/unterschrift.png" style="width: 110%; height: 70%" alt="">
         </div>
@@ -50,7 +50,7 @@ include "templates/nav.php"
 </div>
 
     <div class=" px-5 py-3">
-        <h4 align="center" class="Elendeauswahl">
+        <h4 style = "text-align: justify" class="Elendeauswahl">
             Film music has always been the main subject of many fundamental questions, as it is an essential element of a film.
             Film music could always play an important role in shaping the final version of the film, in addition to carrying
             the film's narrative context.

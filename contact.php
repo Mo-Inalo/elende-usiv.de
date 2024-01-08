@@ -40,7 +40,7 @@ include "templates/nav.php"
         <input type="text" id="tele" name="tele" placeholder="Please insert your phone number.." required>
 
         <label for="email">E-Mail</label>
-        <input type="text" id="email" name="email" placeholder="Please insert your E-Mail .." required>
+        <input type="email" id="email" name="email" placeholder="Please insert your E-Mail .." required>
 
         <label for="address">Address</label>
         <input type="text" id="address" name="address" placeholder="Please insert your Address ..">

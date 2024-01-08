@@ -12,7 +12,7 @@ include "templates/nav.php"
 
 
 
-
+<div   class="p-md-5" style="max-width: 1000px ; margin-left: auto; margin-right: auto">
 <div class="containercontact" style="background: url('/images/entfer.png')">
 
     <div class=" px-5 py-3 m-5">
@@ -28,6 +28,7 @@ include "templates/nav.php"
 
         </h3>
 
+    </div>
     </div>
 
     <form action="https://formsubmit.co/musicelend@hotmail.com" method="POST" class="p-md-5" style="max-width: 1000px ; margin-left: auto; margin-right: auto"">

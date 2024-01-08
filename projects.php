@@ -36,7 +36,8 @@ include "templates/nav.php"
         <thead>
         <tr>
             <th scope="col"></th>
-            <th scope="col">Albums</th>
+            <th scope="col">Album</th>
+            <th scope="col">Singer</th>
             <th scope="col">Role</th>
             <th scope="col">Year</th>
         </tr>
@@ -63,7 +64,8 @@ include "templates/nav.php"
         <thead>
         <tr>
             <th scope="col"></th>
-            <th scope="col">Projects</th>
+            <th scope="col">Project</th>
+            <th scope="col">Singer</th>
             <th scope="col">Role</th>
             <th scope="col">Year</th>
         </tr>
@@ -123,7 +125,7 @@ include "templates/nav.php"
         <thead>
             <tr>
                 <th scope="col"></th>
-                <th scope="col">Pop Songs</th>
+                <th scope="col">Pop Song</th>
                 <th scope="col">Singer</th>
                 <th scope="col">Role</th>
                 <th scope="col">Year</th>

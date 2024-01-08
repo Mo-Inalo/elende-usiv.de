@@ -235,6 +235,9 @@ option {
     background-color: rgba(107, 106, 106, 0.47);
     position: relative;
     border-radius: 15px;
+    border-color: 2px dotted white;
+   
+
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */

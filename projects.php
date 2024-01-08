@@ -31,7 +31,7 @@ include "templates/nav.php"
 <br>
 <br>
 
-    <table class="table table-hover align-content-center">
+    <table class="table table-hover align-content-center" style="font-weight: bold">
 
         <thead>
         <tr>
@@ -60,7 +60,7 @@ include "templates/nav.php"
     <br>
     <br>
 
-    <table class="table table-hover align-content-center">
+    <table class="table table-hover align-content-center" style="font-weight: bold">
 
         <thead>
         <tr>
@@ -127,7 +127,7 @@ include "templates/nav.php"
     <br>
     <br>
     <br>
-    <table class="table table-hover align-content-center">
+    <table class="table table-hover align-content-center" style="font-weight: bold">
 
         <thead>
             <tr>

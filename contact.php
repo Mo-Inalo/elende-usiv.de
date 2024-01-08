@@ -15,8 +15,8 @@ include "templates/nav.php"
 
 <div class="containercontact" style="background: url('/images/entfer.png')">
 
-    <div class=" px-5 py-3">
-        <h4 style = "text-align: justify" class="Elendeauswahl">
+    <div class=" px-5 py-3 m-5">
+        <h3 style = "text-align: justify" class="Elendeauswahl">
             Thank you very much for your message! We appreciate your interest and are grateful for the time you have 
             taken to get in touch with us. Your inquiry is of great importance to us.
 
@@ -26,7 +26,7 @@ include "templates/nav.php"
             <br>
           
 
-        </h4>
+        </h3>
 
     </div>
 

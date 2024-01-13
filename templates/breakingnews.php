@@ -6,7 +6,7 @@
         svg {
         }
         svg:hover {
-            filter: drop-shadow( 0px 0px 2px rgb(238, 18, 18));
+            filter: drop-shadow( 0px 0px 3px rgb(19, 49, 192));
         }
     }
 </style>

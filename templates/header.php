@@ -18,9 +18,6 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
     <link rel="stylesheet" href="/css_my/stylesheet.css">
     <script src="/js_my/script.js"></script>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Varela&display=swap" rel="stylesheet">
 
 
 </head>

@@ -11,7 +11,7 @@ include "templates/nav.php"
 
 
 
-<main  style="background-image: url('images/entfer.png') "  >
+<main  style="background-image: url('images/entfer.png') ; opacity: 100%"  >
     <?php
     include "templates/breakingnews.php"
     ?>
@@ -19,14 +19,12 @@ include "templates/nav.php"
 
 
 
-<div class="row" style="margin-right:auto">
+        <div class="row" style="margin-right:auto">
 
 
-        <div  class="col-md-7 p-5" >
-            <img class="rounded-4 img-fluid height:auto border-primary-subtle" src="images/e1.jpg" alt="Elende Usiv"   >
-        </div>
 
-        <div class=" col-md-5  text-dark p-5">
+
+        <div class=" col-md-6  text-dark p-5">
 
         <div class="typewriter">
             <h1 class="Elendeauswahl">Elende Usiv</h1>
@@ -34,22 +32,39 @@ include "templates/nav.php"
 
             <h5 class="Elendeauswahl">Film music composer</h5>
 
-            <h5 class=" my-5 Elendeauswahl" style="text-align: justify"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
+            <h4 class=" my-5 Elendeauswahl" style="text-align: justify"> I'm Elende Usiv, a Cologne-based composer and music editor for media who has
                 worked on films and commercials.
                 You can hear some of my music on YouTube, Soundcloud and Spotify.
                 At the same time as my film music career, I composed and arranged many pop songs for various Kurdish singers.
                 who have supported my journey and career as a film music composer.
 
-            </h5>
-        <div class="mx-5">
-            <img src="images/unterschrift.png" style="width: 110%; height: 70%" alt="">
+            </h4>
+        <div class=" ">
+            <center>
+                <img src="images/unterschrift.png" style="width: 60%; height: 60%" alt="">
+            </center>
         </div>
 
 
         </div>
-</div>
 
-    <div class=" px-5 py-3">
+
+            <div class="col-md-6 p-5" style="position: relative;">
+                <center>
+                    <!-- Hauptbild -->
+                    <img class="rounded-4 img-fluid" src="images/perso.jpg" alt="Elende Usiv" style="filter: brightness(60%);width: 90%; height: 90%; transform: rotate(-3deg)">
+                    <!-- Rahmenbild
+                    <img class="border-image" src="images/border.png" alt="Rahmen" style="max-width: 76%; max-height: 76%; transform: rotate(-5deg); position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-5deg); z-index: 1;">
+                </center>
+                -->
+            </div>
+
+
+        </div>
+
+
+    <div class=" p-4">
+        <center>
         <h4 style = "text-align: justify" class="Elendeauswahl">
             Film music has always been the main subject of many fundamental questions, as it is an essential element of a film.
             Film music could always play an important role in shaping the final version of the film, in addition to carrying
@@ -68,8 +83,9 @@ include "templates/nav.php"
             <br>
 
         </h4>
-
+            </center>
     </div>
+
         <br>
         <div align="center" class="mx-5 my-5">
             <?php
@@ -88,6 +104,9 @@ include "templates/nav.php"
         </div>
 
         <br>
+
+
+    </div>
 </main>
 
 

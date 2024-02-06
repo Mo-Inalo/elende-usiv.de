@@ -19,7 +19,7 @@
 
         <div  align="center">
           <h6  style="padding: 3px">
-           <!-- &#9835; -->  It's out! check my new album n
+           <!-- &#9835; -->  It's out! check my album n
               <i class="bi bi-play-circle" id="playbutton">
                   <a   style ="margin: -3px" class="text-dark " href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer" >
                       <svg   xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-play-circle" viewBox="0 0 16 16">

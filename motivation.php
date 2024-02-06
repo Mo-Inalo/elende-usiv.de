@@ -68,7 +68,7 @@
             </h4>
         </div>
         <div style="text-align: center;">
-            <img src="images/unterschrift.png" style="height=50%" width="50%">
+            <img src="images/unterschrift.png" style="height=20% ; width=20%">
         </div>
 
         <br>

@@ -51,12 +51,10 @@ include "templates/nav.php"
 
             <div class="col-md-6 p-5" style="position: relative;">
                 <center>
-                    <!-- Hauptbild -->
-                    <img class="rounded-4 img-fluid" src="images/perso.jpg" alt="Elende Usiv" style="filter: brightness(60%);width: 90%; height: 90%; transform: rotate(-3deg)">
-                    <!-- Rahmenbild
-                    <img class="border-image" src="images/border.png" alt="Rahmen" style="max-width: 76%; max-height: 76%; transform: rotate(-5deg); position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-5deg); z-index: 1;">
+
+                    <img class="rounded-3 img-fluid" src="images/perso.jpg" alt="Elende Usiv" style="filter: brightness(60%);width: 80%; height: 80%; transform: rotate(-3deg)">
                 </center>
-                -->
+
             </div>
 
 

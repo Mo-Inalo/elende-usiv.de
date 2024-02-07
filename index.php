@@ -60,7 +60,7 @@ include "templates/nav.php"
         </div>
 
 
-            <div class="col-md-6 p-5" style=" display: flex; justify-content: center;">
+            <div class="col-md-6 p-5 ">
 
                <img class="rounded-3 img-fluid" src="images/perso.jpg" alt="Elende Usiv"
                  style="filter: brightness(60%);max-width: 80%; transform: rotate(-3deg); ">

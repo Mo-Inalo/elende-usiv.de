@@ -1,4 +1,24 @@
 <style>
+    thead{
+
+        background-color: #404246;
+
+    }
+    th {
+    color: #c5c0c0;
+    }
+
+    thead,
+    tbody,
+    tfoot,
+    tr,
+    td,
+    th {
+        border-color: black !important;
+        border-style: solid;
+        border-width: 0;
+    }
+
 a{
     color: black!important;
     }
@@ -37,7 +57,7 @@ include "templates/nav.php"
         <tr>
             <th scope="col"></th>
             <th scope="col">Album</th>
-            <th scope="col">Singer</th>
+
             <th scope="col">Role</th>
             <th scope="col">Year</th>
         </tr>
@@ -46,7 +66,7 @@ include "templates/nav.php"
         <tr>
             <th scope="row"></th>
             <td><a href="https://www.youtube.com/watch?v=osVSP4WzVrg" target="_blank" rel="noopener noreferrer"> Winter </a></td>
-            <td></td>
+
             <td>Composer</td>
             <td>2023</td>
         </tr>
@@ -66,7 +86,7 @@ include "templates/nav.php"
         <tr>
             <th scope="col"></th>
             <th scope="col">Project</th>
-            <th scope="col">Singer</th>
+
             <th scope="col">Role</th>
             <th scope="col">Year</th>
         </tr>
@@ -76,7 +96,7 @@ include "templates/nav.php"
         <tr>
             <th scope="row"></th>
             <td>Last Bullet </td>
-            <td>  </td>
+
             <td>  </td>
             <td>2018</td>
         </tr>
@@ -84,7 +104,7 @@ include "templates/nav.php"
         <tr>
             <th scope="row"> </th>
             <td>The Black Flower </td>
-            <td> </td>
+
             <td>  </td>
             <td>2019</td>
         </tr>
@@ -92,7 +112,7 @@ include "templates/nav.php"
         <tr>
             <th scope="row"> </th>
             <td>Just before the End </td>
-            <td> </td>
+
             <td>  </td>
             <td>2019</td>
         </tr>
@@ -101,7 +121,7 @@ include "templates/nav.php"
         <tr>
             <th scope="row"> </th>
             <td><a href="https://www.youtube.com/watch?v=JYh1wMtfE7Y" target="_blank" rel="noopener noreferrer"> A Nipple Story | Dir. Rodi Hameh (Dasra Film)</a></td>
-            <td>  </td>
+
             <td> Composer </td>
             <td>2022</td>
         </tr>
@@ -109,7 +129,7 @@ include "templates/nav.php"
         <tr>
             <th scope="row"> </th>
             <td><a href="https://www.youtube.com/watch?v=ZEzIY8GP3bA&t=1s" target="_blank" rel="noopener noreferrer"> 16 SECONDS | Dir. Diya Al Abdullah (Kurdland 9) </a></td>
-            <td>  </td>
+
             <td> Composer </td>
             <td>2022</td>
         </tr>
@@ -117,7 +137,7 @@ include "templates/nav.php"
         <tr>
             <th scope="row"> </th>
             <td>Al Iada | Podcast by Rodi Hameh & Diya Alabdula (Kurdland9)</td>
-            <td>  </td>
+
             <td> Composer </td>
             <td>2023</td>
         </tr>

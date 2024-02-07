@@ -39,21 +39,50 @@ include "templates/nav.php"
                 who have supported my journey and career as a film music composer.
 
             </h4>
-        <div class=" ">
-            <center>
-                <img src="images/unterschrift.png" style="width: 60%; height: 60%" alt="">
-            </center>
-        </div>
+        <div  class="row align-items-center">
+            <div class="col">
 
-
-        </div>
-
-
-            <div class="col-md-6 p-5" style="position: relative;">
+            </div>
+            <div class="col">
                 <center>
-
-                    <img class="rounded-3 img-fluid" src="images/perso.jpg" alt="Elende Usiv" style="filter: brightness(60%);width: 80%; height: 80%; transform: rotate(-3deg)">
+                    <img src="images/unterschrift.png" style="height: 60%" >
                 </center>
+
+            </div>
+            <div class="col">
+
+            </div>
+
+
+        </div>
+
+
+        </div>
+
+
+            <div class="col-md-6 p-5" style=" display: flex; justify-content: center;">
+
+
+                    <div class="row">
+
+                    </div>
+                    <div class="row">
+                        <center>
+                            <img class="rounded-3 img-fluid" src="images/perso.jpg" alt="Elende Usiv"
+                                 style="filter: brightness(60%);max-width: 80%;  transform: rotate(-3deg); top: 50%;left: 50%">
+
+                        </center>
+
+                    </div>
+                    <div class="row">
+
+                    </div>
+
+
+
+
+
+
 
             </div>
 

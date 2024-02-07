@@ -143,6 +143,10 @@ select {
 option {
     background-color: rgb(171, 171, 175);
 }
+::placeholder {
+    color: #363434;
+
+}
 
 /* The actual timeline (the vertical ruler) */
 .timeline {

@@ -155,8 +155,9 @@ option  {
     background-color: #c0bdbd;
 }
 
-option:checked, option:hover {
-    background-color: #0f5132;
+option:checked,
+option:hover {
+    box-shadow: 0 0 10px 100px #7e7c7c inset;
 }
 
 

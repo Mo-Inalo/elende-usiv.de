@@ -31,7 +31,11 @@ include "templates/nav.php"
 
     <form action="https://formsubmit.co/musicelend@hotmail.com" method="POST" class="p-md-5" style="max-width: 1000px ; margin-left: auto; margin-right: auto"">
 
-        <select name="title" required>
+        <select name="title" required
+                onfocus="this.size=8;"
+                onblur="this.size=0;"
+                onchange="this.size=1;
+                this.blur()">
             <option>Select a Title </option>
             <option>Mr </option>
             <option>Mrs</option>

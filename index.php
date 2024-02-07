@@ -62,27 +62,8 @@ include "templates/nav.php"
 
             <div class="col-md-6 p-5" style=" display: flex; justify-content: center;">
 
-
-                    <div class="row">
-
-                    </div>
-                    <div class="row">
-                        <center>
-                            <img class="rounded-3 img-fluid" src="images/perso.jpg" alt="Elende Usiv"
-                                 style="filter: brightness(60%);max-width: 80%;  transform: rotate(-3deg); top: 50%;left: 50%">
-
-                        </center>
-
-                    </div>
-                    <div class="row">
-
-                    </div>
-
-
-
-
-
-
+               <img class="rounded-3 img-fluid" src="images/perso.jpg" alt="Elende Usiv"
+                 style="filter: brightness(60%);max-width: 80%; transform: rotate(-3deg); ">
 
             </div>
 

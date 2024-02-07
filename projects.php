@@ -19,9 +19,12 @@
         border-width: 0;
     }
 
-a{
-    color: black!important;
+    #acolor{
+        a{
+            color: black!important;
+        }
     }
+
 
 </style>
 
@@ -41,7 +44,7 @@ include "templates/nav.php"
 
 
 
-<main  style=" background-image: url('images/entfer.png') " >
+<main id="acolor" style=" background-image: url('images/entfer.png') " >
 
     <div    style=" ; max-width: 1400px ; margin-left: auto; margin-right: auto" >
 

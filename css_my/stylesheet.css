@@ -143,11 +143,24 @@ textarea {
 }
 select {
     background-color: rgb(171, 171, 175);
+
 }
 
-option {
-    background-color: rgb(171, 171, 175);
+select:focus > option:checked {
+    background: unset !important;
+
 }
+
+option  {
+    background-color: #c0bdbd;
+}
+
+option:checked, option:hover {
+    background-color: #0f5132;
+}
+
+
+
 ::placeholder {
     color: #363434;
 

@@ -8,7 +8,7 @@ $page = basename($_SERVER['PHP_SELF'],'.php');
            class="navbar-brand">
             <img
                 class="d-block align-top"
-                src ="/images/logo2.png "
+                src ="/images/logo_nav.png "
                 width="200px" height="100px"
                 alt=""
             />

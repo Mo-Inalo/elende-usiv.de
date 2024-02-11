@@ -377,10 +377,11 @@ audio {
     opacity: 0.7;
     border-radius: 50%;
 }
+/*
 
 @media only screen and (max-width: 766px) {
     .backgroundresponsive1 {
-        background-image: url('/images/entfer.png');
+        background-image: url('/images/background-photo.png');
         background-size: cover;
         background-attachment: initial;
         background-position: center center;
@@ -390,7 +391,7 @@ audio {
 
 @media only screen and (min-width: 767px) {
     .backgroundresponsive1 {
-        background-image: url("/images/entfer.png");
+        background-image: url("/images/background-photo.png");
         background-size: cover;
         background-attachment: initial;
         background-position: center center;
@@ -420,3 +421,4 @@ audio {
 
 
 }
+*/

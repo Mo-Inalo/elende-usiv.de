@@ -44,7 +44,7 @@ include "templates/nav.php"
 
 
 
-<main id="acolor" style=" background-image: url('images/entfer.png') " >
+<main id="acolor" style=" background-image: url('images/background-photo.png') " >
 
     <div    style=" ; max-width: 1400px ; margin-left: auto; margin-right: auto" >
 

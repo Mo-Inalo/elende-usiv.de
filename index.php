@@ -11,7 +11,7 @@ include "templates/nav.php"
 
 
 
-<main  style="background-image: url('images/entfer.png') ; opacity: 100%"  >
+<main  style="background-image: url('images/background-photo.png') ; opacity: 100%"  >
     <?php
     include "templates/breakingnews.php"
     ?>
@@ -70,7 +70,7 @@ include "templates/nav.php"
             justify-content: center;
             align-items: center;
             " >
-                    <img   class="rounded-3 img-fluid" src="images/perso.jpg" alt="Elende Usiv"
+                    <img class="rounded-3 img-fluid" src="images/personal_photo.jpg" alt="Elende Usiv"
                          style="filter: brightness(60%);width: 75%; transform: rotate(-6deg); ">
 
                 </div>

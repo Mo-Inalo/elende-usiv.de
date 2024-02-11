@@ -314,14 +314,14 @@ option:hover {
     margin: 0 auto; /* Gives that scrolling effect as the typing happens */
 
     animation:
-            typing 4s steps(20, end),
+            typing 3s steps(20, end),
             blink-caret 2.5s step-start infinite;
 }
 
 /* The typing effect */
 @keyframes typing {
-    from { width: 10% }
-    to { width: 100% }
+    from { width: 20% }
+    to { width: 50% }
 }
 
 /* The typewriter cursor effect */

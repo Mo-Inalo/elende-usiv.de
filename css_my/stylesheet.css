@@ -320,8 +320,8 @@ option:hover {
 
 /* The typing effect */
 @keyframes typing {
-    from { width: 20% }
-    to { width: 50% }
+    from { width: 5% }
+    to { width: 100% }
 }
 
 /* The typewriter cursor effect */

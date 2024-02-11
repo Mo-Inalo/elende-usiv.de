@@ -26,8 +26,9 @@ include "templates/nav.php"
 
         <div class=" col-md-6  text-dark p-5">
 
-        <div class="typewriter">
-            <h1 style="display: inline-block" class="Elendeauswahl">Elende Usiv </h1>
+        <div   style="display: inline-block" class="typewriter">
+
+            <h1 class="Elendeauswahl">Elende Usiv </h1>
         </div>
 
             <h5 class="Elendeauswahl">Film music composer</h5>

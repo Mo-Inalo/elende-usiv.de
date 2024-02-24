@@ -30,7 +30,7 @@ include "templates/nav.php"
     </div>
 
     <form action="https://api.web3forms.com/submit" method="POST" class="p-md-5" style="max-width: 1000px ; margin-left: auto; margin-right: auto"">
-       <input type="hidden" name="access_key" value="">
+       <input type="hidden" name="access_key" value="640a4664-c27c-4740-8843-9200bc14361e">
 
             <input type="hidden" name="subject" value="Inquery">
             <input type="hidden" name="Kontaktform" value="Inquery">

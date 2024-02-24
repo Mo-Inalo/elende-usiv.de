@@ -14,7 +14,7 @@
 
 
 
-<div class="my-3 Elendeauswahl" style="background-color: rgba(84,85,86,0.88)">
+<div class="my-3 Elendeauswahl" style="background-color: rgba(84,85,86,0.88); margin-top: 2px !important">
 
 
         <div  align="center">
